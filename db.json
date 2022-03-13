@@ -1,0 +1,44 @@
+{
+  "users": [
+    {
+      "name": "rahul",
+      "age": "26",
+      "address": "delhi india",
+      "Department": "",
+      "Salary": "1500000",
+      "married": "",
+      "unmarried": "unmarried",
+      "id": 1
+    },
+    {
+      "name": "nitish",
+      "age": "27",
+      "address": "haryana",
+      "Department": "design",
+      "Salary": "200000",
+      "married": "married",
+      "unmarried": "",
+      "id": 2
+    },
+    {
+      "name": "nitin",
+      "age": "29",
+      "address": "canada",
+      "Department": "frontend",
+      "Salary": "20000",
+      "married": "married",
+      "unmarried": "unmarried",
+      "id": 3
+    },
+    {
+      "name": "amit",
+      "age": "32",
+      "address": "rajasthan",
+      "Department": "backend",
+      "Salary": "2000000",
+      "married": "married",
+      "unmarried": "",
+      "id": 4
+    }
+  ]
+}
